@@ -19,7 +19,7 @@
   ],
   "bin": "dist/index.js",
   "author": "Garik Suess",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "commander": "^3.0.1",
     "csv-parser": "^2.3.0",
